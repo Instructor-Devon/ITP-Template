@@ -1,0 +1,29 @@
+body {
+    background-color: #2a2a2a;
+    padding: 40px;
+}
+.container {
+    padding: 0 70px;
+}
+*{
+    color: #fff;
+    font-family: 'Hermit', 'Courier New', Courier, monospace;
+}
+h1 {
+    color: orange;
+    text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+    margin: 0;
+}
+a {
+    color: #9e9eff;
+}
+span {
+    color: rgb(255, 222, 130);
+    font-weight: bold;
+}
+#tips span {
+    color: lightcoral;
+}
+li {
+    padding: 3px;
+}
